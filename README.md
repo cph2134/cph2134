@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cph2134
-- 👀 I’m interested in getting into a coding bootcamp and getting a job as a developer (and in my spare time, I read a lot of contemporary fiction and cook)
-- 🌱 I’m currently learning more advanced javascript and brushing up on past learning of Git. 
+- 👀 I’m attending Grace Hopper at Fullstack Academy, aiming to get a job as a developer in March 2022 (and in my spare time, I read a lot of contemporary fiction and cook)
+- 🌱 I’m currently working on React. 
 - 💞️ I’m looking to collaborate on a web-based book suggestion app for kids
 - 📫 email me at china.hoffman@gmail.com. 
 
